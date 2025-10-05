@@ -1,0 +1,24 @@
+# Environment Variables
+# Never commit your .env file. It contains secret API keys.
+.env
+
+# Virtual Environment
+# This folder can be recreated from requirements.txt and is machine-specific.
+venv/
+.venv/
+env/
+/env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor configuration folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
