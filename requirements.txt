@@ -1,0 +1,4 @@
+supabase
+python-dotenv
+questionary
+python-dateutil
